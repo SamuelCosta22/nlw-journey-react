@@ -27,7 +27,7 @@
   <img align="justify" height="220" width="240" alt="Home Page" width="500" src="https://i.ibb.co/n7bDYYt/Capturar2.png">
   <img align="justify" height="220" width="240" alt="Home Page" width="500" src="https://i.ibb.co/19V2MVL/Capturar3.png">
 </div>
-============================================================================================
+=========================================================
 <h4 align="center">Trip Page</h4>
 <div align="center">
     <img align="justify" height="220" width="300" alt="Trip Page" width="500" src="https://i.ibb.co/t89mNW2/Capturar4.png">
