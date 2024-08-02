@@ -11,6 +11,8 @@
     <p align="justify"><strong>Conteúdo deste projeto: </strong>Desenvolvimento de uma aplicação front-end em ReactJS, aplicação dos conceitos de Propriedades, Estados e Componentes, tipagem com Typescript, tooling com Vite, interface responsiva com TailwindCSS, consumo de API Node.js, picker de calendário.</p>
 </div>
 
+<strong>Obs.:</strong> the production URL doesn't work without a backend! But frontend link is workin correctly: https://plannerreact-samuelcosta22s-projects.vercel.app/
+
 <h3 align="left">Languages ​​used for this front-end project</h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="ReactNative" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
